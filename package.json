@@ -1,0 +1,16 @@
+{
+  "name": "test-fizz-bazz",
+  "version": "1.0.0",
+  "description": "Test para entrevistas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "Ezequiel Sanson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.3",
+    "ts-node": "^10.7.0"
+  }
+}
